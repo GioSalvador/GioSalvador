@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Giovani, a Full Stack Developer
+# 👋 Hi, I'm Giovani, full stack developer
 ## About Me
 * 💻 **3+ years of professional experience**
 * 🧩 I like practicing by **maintaining, refactoring, and fixing bugs** in real projects
