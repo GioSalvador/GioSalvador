@@ -12,9 +12,11 @@
 * JavaScript (ES6+)
 * TypeScript
 * HTML5 / CSS3
+  
 **Back-end**
 * Node.js (REST APIs)
 * Python
+  
 **Tools & Workflow**
 * Git & GitHub
 * Figma
