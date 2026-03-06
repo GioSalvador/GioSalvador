@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Giovani</h1>
+<h1 align="center">Hi, I'm Giovani</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
 # About Me:
-💻 3+ years of professional experience<br>🧩 I like practicing by maintaining, refactoring, and fixing bugs in real projects<br>🌎 Comfortable working in English and collaborating with international teams
+3+ years of professional experience<br> I like practicing by maintaining, refactoring, and fixing bugs in real projects<br> Comfortable working in English and collaborating with international teams
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovani-salvador/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsalvador9817@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ### Front end:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
