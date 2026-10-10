@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer from Brazil</h3>
 
 # About Me:
-3+ years of professional experience<br> I like practicing by maintaining, refactoring, and fixing bugs in real projects<br> Comfortable working in English and collaborating with international teams
+5+ years of professional experience<br> I like practicing by maintaining, refactoring, and fixing bugs in real projects<br> Comfortable working in English and collaborating with international teams
 
 
 ## Socials:
